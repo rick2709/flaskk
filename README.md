@@ -1,2 +1,0 @@
-# flaskk
-heart prediction
